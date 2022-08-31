@@ -9,6 +9,11 @@ The dependent variable was the Class of cancer( 2 for benign and 4 for malignant
 An analysis of multi-layer perceptron model of a neural network algorithm was done to develop insights that can be used to create a machine learning model. The following concepts were applied in the exploratory data analysis: key statistics, correlation analysis, Neural network and decision tree analysis and evaluation of the model to determine if it is a good fit to the data.
 
 ![](/images/th.jpg)
+
+
+
+
+![](/images/pic.jpg)
 # [Project 2: Superstore Sales Forecasting Analysis](https://github.com/Srilasyag/Superstore-Walmart-Sales-Forecasting-Analysis)
 Every department store chain wants to predict the store sales in the nearby future so that they can plan for inventory.
 Sales prediction helps increase/decrease store staff base on the rush.
@@ -17,7 +22,6 @@ To plan for inventory, it is important to know what products or category of prod
 Sales Prediction is done at a combination of store and department level and also at product level for high selling products.
 In this project, the sales data includes 45 stores based on store, department, and week. The size and type of each store is provided. Holiday weeks have been marked. Along with this, price markdown data (discount data) has been given. A few macro indicators such as CPI, Unemployment rate, Fuel Price etc. are also provided.
 
-![](/images/pic.jpg)
 
 # Project Concepts:
 
