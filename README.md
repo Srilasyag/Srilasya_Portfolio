@@ -22,6 +22,7 @@ To plan for inventory, it is important to know what products or category of prod
 Sales Prediction is done at a combination of store and department level and also at product level for high selling products.
 In this project, the sales data includes 45 stores based on store, department, and week. The size and type of each store is provided. Holiday weeks have been marked. Along with this, price markdown data (discount data) has been given. A few macro indicators such as CPI, Unemployment rate, Fuel Price etc. are also provided.
 
+![](/images/pic.jpg)
 
 # Project Concepts:
 
