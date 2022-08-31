@@ -19,7 +19,6 @@ In this project, the sales data includes 45 stores based on store, department, a
 
 ![](/images/sales%20analysis.jpg)
 
-
 # Project Concepts:
 
 •	Understand the problem Statement clearly and how it is applicable to the scenario of Sales Forecasting.
