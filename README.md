@@ -13,7 +13,7 @@ An analysis of multi-layer perceptron model of a neural network algorithm was do
 
 
 
-![](/images/pic.jpg)
+
 # [Project 2: Superstore Sales Forecasting Analysis](https://github.com/Srilasyag/Superstore-Walmart-Sales-Forecasting-Analysis)
 Every department store chain wants to predict the store sales in the nearby future so that they can plan for inventory.
 Sales prediction helps increase/decrease store staff base on the rush.
